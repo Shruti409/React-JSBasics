@@ -1,6 +1,6 @@
 import React from 'react'; //react module
 import ReactDOM from 'react-dom'; //react-dom module
-import './index.css' //importing  css file
+import './test.css' //importing  css file
 //1. TO DISPLAY IN REACT :
 
 
