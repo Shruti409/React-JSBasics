@@ -1,0 +1,7 @@
+*{margin: 0; padding:0; box-sizing: border-box;}
+.para{
+    text-align: center;
+    text-transform: uppercase;
+    color: blue;
+    text-shadow: 1 2 4 cornflowerblue;
+}
